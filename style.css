@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+nav {
+    margin-bottom: 30px;
+}
+
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a[aria-current="page"] {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 30px;
+}
+img {
+    max-width: 300px;
+    height: auto;
+}
+form {
+    max-width: 600px;
+}
+
+form label {
+    display: block;
+    margin-top: 15px;
+}
+
+form input,
+form select,
+form textarea {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    padding: 10px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+form textarea {
+    height: 150px;
+    resize: vertical;
+}
+form button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+fieldset {
+    padding: 20px;
+}
+fieldset {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+p {
+    line-height: 1.6;
+}
+li {
+    margin-bottom: 8px;
+}
+footer {
+    margin-top: 40px;
+    padding-top: 20px;
+}
