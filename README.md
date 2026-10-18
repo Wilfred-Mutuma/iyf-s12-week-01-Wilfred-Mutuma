@@ -94,7 +94,7 @@ better structured and more accessible websites.
 
 ## Live Demo
 
-GitHub Pages deployment will be added here after deployment.
+### [Live Site](https://wilfred-mutuma.github.io/iyf-s12-week-01-Wilfred-Mutuma/)
 
 ## Future Improvements
 
